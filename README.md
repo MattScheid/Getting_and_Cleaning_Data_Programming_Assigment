@@ -8,8 +8,8 @@ This repo was created to analyze the UCI HAR Dataset. The run_analysis.R script 
 
 __Variables Description__
 
-*The measurements (X) in the dataset are sensor signals measured with waist-mounted smartphone from 30 subjects.
-*The activities (Y) indicates activity type the subjects performed during recording.
+* The measurements (X) in the dataset are sensor signals measured with waist-mounted smartphone from 30 subjects.
+* The activities (Y) indicates activity type the subjects performed during recording.
 
 __Code Explaination__
 
