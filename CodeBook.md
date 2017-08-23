@@ -2,8 +2,8 @@
 This code book describes the data in tidyData.txt
 
 __Classes__
-* `subject`
-* `activity`
+* `subject` : ID for test subject
+* `activity` : Activity performed by test subject
 
 __Measurements__
 * `tBodyAcc-mean()-X`          
