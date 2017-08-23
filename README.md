@@ -1,4 +1,4 @@
-#Getting and Cleaning Data Programming Assignment
+# Getting and Cleaning Data Programming Assignment
 
 This repo was created to analyze the UCI HAR Dataset. The run_analysis.R script will perform the following:
 
